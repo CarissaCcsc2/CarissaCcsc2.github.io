@@ -1,11 +1,13 @@
 body {
   background-color: lightblue;
-  margin-left: 80px;
+  
 }
 
 h1 {
   color: navy;
-  margin-left: 20px;
+  margin-left: 80px;
 }
 
-
+th {
+  margin-left: 80px;
+}
