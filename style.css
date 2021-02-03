@@ -1,7 +1,10 @@
 body {
-  background-color: black;
+  background-color: blue;
   margin-left: 325px;
 }
+
+tr {
+   margin-left: 350px;
 
 h1 {
   color: navy;
